@@ -58,7 +58,7 @@ Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien a
 
 ---
 
-## `L'idée`
+## `Idée`
 
 - Refaire la totalite du site, en gardant le contenu actuel, meme si je n'ai pas totalement conscience de la charge de travail que cela pourrait être, débutant dans le digital : 
 
@@ -69,9 +69,9 @@ Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien a
         avec le peu de compréhension que j'ai d'un site web, en inspectant le code source,  
         j'ai pu comprendre qu'il était toujours en HTML 4.01...  
 
-- Après une première ebauche, demander a Inforautism les améliorations qu'ils aimeraient avoir sur leurs propre site
+- Après une première ebauche, demander a Inforautism les améliorations qu'ils aimeraient avoir sur leur propre site
 
-- Aide dans leurs visibilité digital 
+- Aide dans leurs visibilité digital (Twitter?)
 
 - Ce qui m'a poussé a prendre cette association est également ce petit détail :
 présent [ici](http://www.inforautisme.com/01qui/index.htm)
@@ -82,6 +82,8 @@ présent [ici](http://www.inforautisme.com/01qui/index.htm)
         Dernière mise à jour 01/06/15
 
 - Essayer _(meme si j'ai peu de connaissance d'infographie)_ de crée un logo plus actuel 
+
+- Proposer une journée de code a l'association pour les parents qui pourraient être intéressé ? 
 
 - J'ai regardé leur activité en ligne, et ils semblent toujours actif, etant donnée qu'ils postent régulièrement sur leur page [facebook](https://www.facebook.com/Inforautisme/)
 

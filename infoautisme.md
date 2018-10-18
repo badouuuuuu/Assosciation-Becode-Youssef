@@ -8,8 +8,8 @@
 ---
 ## `Qu’est-ce que le trouble du spectre de l’autisme?`
 
-    - Le trouble du spectre de l’autisme est un trouble neurologique qui touche plusieurs aspects du développement  
-    de l’enfant. Il affecte sa capacité à communiquer et à entrer en relation avec les autres en plus de restreindre ses intérêts.
+   - Le trouble du spectre de l’autisme est un trouble neurologique qui touche plusieurs aspects du développement  
+   de l’enfant. Il affecte sa capacité à communiquer et à entrer en relation avec les autres en plus de restreindre ses intérêts.
 
    - Environ 1 enfant sur 80 recevrait un diagnostic de trouble du spectre de l’autisme chaque année.  
    Au Québec, le nombre de  diagnostics augmenterait de 25 % annuellement.  

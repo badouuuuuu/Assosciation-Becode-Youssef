@@ -1,17 +1,17 @@
 
 
 # Becode.Org - Association - InforAutisme
-> Site Actuel: Inforautisme.be
+> Site Actuel: [Inforautisme.be](http://www.inforautisme.be)
 
 > Facebook : [Inforautisme](https://www.facebook.com/Inforautisme)
 
 ---
 ## `Qu’est-ce que le trouble du spectre de l’autisme?`
 
-    Le trouble du spectre de l’autisme est un trouble neurologique qui touche plusieurs aspects du développement de l’enfant. Il affecte sa capacité à communiquer et à entrer en relation avec les autres en plus de restreindre ses intérêts.
+    Le trouble du spectre de l’autisme est un trouble neurologique qui touche plusieurs aspects du développement de l’enfant. Il  affecte sa capacité à communiquer et à entrer en relation avec les autres en plus de restreindre ses intérêts.  
 
-    Environ 1 enfant sur 80 recevrait un diagnostic de trouble du spectre de l’autisme chaque année. Au Québec, le nombre de diagnostics augmenterait de 25 % annuellement. Cette augmentation s’expliquerait par le fait que les professionnels et les parents reconnaissent mieux les signes du trouble du spectre de l’autisme. Sans qu’on ne sache vraiment pourquoi, ce trouble touche   de 4 à 5 fois plus de garçons que de filles.
-
+    Environ 1 enfant sur 80 recevrait un diagnostic de trouble du spectre de l’autisme chaque année. Au Québec, le nombre de  diagnostics augmenterait de 25 % annuellement. Cette augmentation s’expliquerait par le fait que les professionnels et les parents  reconnaissent mieux les signes du trouble du spectre de l’autisme. Sans qu’on ne sache vraiment pourquoi, ce trouble touche   de 4 à 5  fois plus de garçons que de filles.  
+    
 >_Source_ : 
 https://naitreetgrandir.com/fr/mauxenfants/indexmaladiesa_z/fiche.aspx?doc=trouble-spectre-autisme
 
@@ -26,7 +26,6 @@ https://naitreetgrandir.com/fr/mauxenfants/indexmaladiesa_z/fiche.aspx?doc=troub
 Les personnes atteintes d'autisme et leurs familles sont des citoyens à part entière. Leur premier objectif est de défendre leurs droits pour qu'ils ne soient plus des citoyens entièrement à part !
 
 Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien aux personnes atteintes d'autisme ou de troubles apparentés et à leur famille, ainsi qu'à toutes les personnes concernées par ce handicap. Voici une liste de nos activités :
-
 
 
 - `L'information :`
@@ -58,16 +57,16 @@ Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien a
 
 - Refaire la totalite du site, en gardant le contenu actuel, meme si je n'ai pas totalement conscience de la charge de travail que cela pourrait être, débutant dans le digital : 
 
-        - Je n'ai pas encore idée de comment le site pourrait être fait, mais  leur site actuel est totalement peu ergonique.
+        - Je n'ai pas encore idée de comment le site pourrait être fait, mais  leur site actuel est totalement peu  
+        ergonique.
 
-        - Les infos essentielles s'y trouvent, mais le site semble assez ancien
-         Avec le peu de compréhension que j'ai d'un site web, en inspectant le code source, j'ai pu comprendre qu'il était toujours en HTML 4.01
+        - Les infos essentielles s'y trouvent, mais le site semble assez ancien  
+        avec le peu de compréhension que j'ai d'un site web, en inspectant le code source,  
+        j'ai pu comprendre qu'il était toujours en HTML 4.01...  
 
 - Après une première ebauche, demander a Inforautism les améliorations qu'ils aimeraient avoir sur leurs propre site
 
 - Aide dans leurs visibilité digital 
-
-- Voir les possibilités pour récuperer la prise du nom de domaine 'Infoautisme.be' qui semble libre _(actuellement sur OVH pour 6,99€ sans hebergement)_
 
 - Ce qui m'a poussé a prendre cette association est également ce petit détail :
 présent [ici](http://www.inforautisme.com/01qui/index.htm)

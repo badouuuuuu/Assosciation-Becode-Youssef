@@ -63,7 +63,7 @@ Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien a
 - Refaire la totalite du site, en gardant le contenu actuel, meme si je n'ai pas totalement conscience de la charge de travail que cela pourrait être, débutant dans le digital : 
 
         - Je n'ai pas encore idée de comment le site pourrait être fait, mais  leur site actuel est totalement peu  
-        ergonique.
+        ergonomique.
 
         - Les infos essentielles s'y trouvent, mais le site semble assez ancien  
         avec le peu de compréhension que j'ai d'un site web, en inspectant le code source,  

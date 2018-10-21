@@ -60,13 +60,12 @@ Les objectifs de l'asbl Infor Autisme sont l'information, l'aide et le soutien a
 
 ## `Idée`
 
-- Refaire la totalite du site, en gardant le contenu actuel, meme si je n'ai pas totalement conscience de la charge de travail que cela pourrait être, débutant dans le digital : 
+- Refaire la totalite du site, en gardant le contenu actuel, meme si je n'ai pas totalement conscience de la charge de travail que cela pourrait être : 
 
         - Je n'ai pas encore idée de comment le site pourrait être fait, mais  leur site actuel est totalement peu  
         ergonomique.
 
-        - Les infos essentielles s'y trouvent, mais le site semble assez ancien  
-        avec le peu de compréhension que j'ai d'un site web, en inspectant le code source,  
+        - Les infos essentielles s'y trouvent, mais le site semble assez ancien, en inspectant le code source,  
         j'ai pu comprendre qu'il était toujours en HTML 4.01...  
 
 - Après une première ebauche, demander a Inforautism les améliorations qu'ils aimeraient avoir sur leur propre site

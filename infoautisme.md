@@ -82,8 +82,6 @@ présent [ici](http://www.inforautisme.com/01qui/index.htm)
 
 - Essayer _(meme si j'ai peu de connaissance d'infographie)_ de crée un logo plus actuel 
 
-- Proposer une journée de code a l'association pour les parents qui pourraient être intéressé ? 
-
 - J'ai regardé leur activité en ligne, et ils semblent toujours actif, etant donnée qu'ils postent régulièrement sur leur page [facebook](https://www.facebook.com/Inforautisme/)
 
 - Quelques tweet a propos de l'autisme & Inforautisme:
